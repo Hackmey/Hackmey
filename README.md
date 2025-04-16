@@ -1,6 +1,6 @@
 # Hey there, I'm Hackmey 👋
 
-Welcome to my cyber dojo where creativity meets code! I'm Arpit Rath—by day a coder, by night a ninja on a mission. Whether I'm breaking down complex problems or building epic projects, I'm all about mixing innovation with a dash of Gen Z flair.
+Welcome to my cyber dojo where creativity meets code! I'm Arpit Rath—by day a coder, by night a ninja on a mission. Whether I'm breaking down complex problems or building epic projects, I'm all about mixing innovation with a dash of NINJA flair.
 
 ## About Me 🥷💻
 
