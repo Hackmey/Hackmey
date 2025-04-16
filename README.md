@@ -2,6 +2,10 @@
 
 Welcome to my cyber dojo where creativity meets code! I'm Arpit Rath—by day a coder, by night a ninja on a mission. Whether I'm breaking down complex problems or building epic projects, I'm all about mixing innovation with a dash of NINJA flair.
 
+<div align="center">
+  <img src="https://github.com/Hackmey/Hackmey/blob/main/proGIF.gif" alt="Coding Jutsu" width="300" />
+</div>
+
 ## About Me 🥷💻
 
 - **Funky Coder:** I craft code that's as slick as my favorite beats.
@@ -21,16 +25,5 @@ I'm always leveling up my skills with a mix of modern tools and classic techniqu
 - **Open Source Contributions:** Pushing the boundaries of what's possible—one commit at a time.
 - **Skill Mastery:** Continuously learning, coding, and unleashing new ideas into the digital realm.
 
-## Let's Connect! 🌟
-
-I'm always excited to collaborate or chat about the next big idea:
-- [LinkedIn](https://www.linkedin.com/in/arpitrath04/)  
-- [Leetcode](https://leetcode.com/u/Hackmey/)
-
-<div align="center">
-  <img src="https://github.com/Hackmey/Hackmey/blob/main/proGIF.gif" alt="Coding Jutsu" width="300" />
-</div>
-
----
 
 > *Life’s too short for boring code. Let’s break the mold, push limits, and revolutionize the digital world—one line at a time!* 🤘🏼
