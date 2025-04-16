@@ -6,11 +6,6 @@ Welcome to my cyber dojo where creativity meets code! I'm Arpit Rath—by day a 
   <img src="https://github.com/Hackmey/Hackmey/blob/main/proGIF.gif" alt="Coding Jutsu" width="300" />
 </div>
 
-## About Me 🥷💻
-
-- **Funky Coder:** I craft code that's as slick as my favorite beats.
-- **Gen Z Enthusiast:** Always on the hunt for the next trend, both in tech and culture.
-- **Ninja at Heart:** I slice through bugs and obstacles with stealth and style.
 
 ## My Tech Arsenal 🚀
 
