@@ -28,7 +28,7 @@ I'm always excited to collaborate or chat about the next big idea:
 - [Leetcode](https://leetcode.com/u/Hackmey/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hackmey/Hackmey/proGIF.gif" alt="Coding Jutsu" width="300" />
+  <img src="https://github.com/Hackmey/Hackmey/blob/main/proGIF.gif" alt="Coding Jutsu" width="300" />
 </div>
 
 ---
