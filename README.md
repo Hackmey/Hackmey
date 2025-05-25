@@ -16,7 +16,7 @@
 I'm a Computer Science student with a strong passion for backend development, open source, and cloud-native technologies. 
 
 - ⚙️ **What I Do:** Build scalable backends, explore cloud-native tools, write clean code.
-- 🌱 **Learning:** Gateway API, Kubernetes contributor workflows, and CI/CD automation.
+
 
 ---
 
