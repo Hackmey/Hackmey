@@ -62,13 +62,3 @@ I'm a Computer Science student with a strong passion for backend development, op
 - 🌍 LeetCode: ([https://leetcode.com/your-username](https://leetcode.com/u/Hackmey/))
 
 ---
-
-### ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0" />
-  </a>
-</p>
