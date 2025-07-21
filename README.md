@@ -51,7 +51,7 @@ I'm a Computer Science student with a strong passion for backend development, op
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackmey&layout=compact&theme=tokyonight" />
 </p>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Hackmey)
+
 
 ---
 
